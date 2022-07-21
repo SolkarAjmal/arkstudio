@@ -1,0 +1,62 @@
+Stylesheet
+.banner{
+    background-image:url("hero-bg.png");
+  height: 100vh; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+}
+button{
+  background-color: dodgerblue;
+  color: white;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+h1{
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+p{
+  text-align: center;
+}
+
+.form{
+  display: flex;
+  
+  
+  
+}
+input{
+  height: 40px;
+  width: 750px;
+  border-radius: 4px;
+  border-color: aliceblue;
+}
+textarea{
+  width: 750px;
+  border-radius: 4px;
+  border-color: aliceblue;
+}
+.address{
+  margin-left: 150px;
+  padding-top: 100px;
+}
+body{
+  background-color: rgb(245, 241, 236);
+}
+ul{
+  margin-left: 700px;
+  
+}
+li{
+  padding: 6px;
+}
+.footer{
+  padding-top:40px;
+}
+label{
+  text-align: end;
+}
